@@ -22,3 +22,14 @@
 I'm always open to interesting problems, collaborations, or a good conversation about AI and hardware.
 
 > *"Build things that push boundaries — software, hardware, and everything in between."*
+>
+> ## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amarnath3003&show_icons=true&theme=tokyonight&count_private=true" alt="Amarnath's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarnath3003&theme=tokyonight" alt="Amarnath's Streak Stats" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarnath3003&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="60%" />
+</p>
