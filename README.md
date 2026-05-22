@@ -2,7 +2,7 @@
   <tr>
     <td align="center" valign="middle" style="border: none; padding-right: 20px;">
       <a href="https://github.com/amarnath3003/amarnath3003">
-        <img src="./asciinator_22May_001.svg" alt="Amarnath Banner" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
+        <img src="./asciinator_22May_001.svg" alt="Amarnath Banner" width="200" height="200" style="object-fit: cover; border-radius: 10px;" />
       </a>
     </td>
     <td align="left" valign="middle" style="border: none;">
