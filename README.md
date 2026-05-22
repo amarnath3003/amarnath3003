@@ -1,5 +1,12 @@
 <h1 align="center">Hey, I'm Amarnath 👋</h1>
 
+
+<p align="center">
+  <a href="https://github.com/amarnath3003/amarnath3003">
+    <img src="./asciinator_22May_001.svg" alt="Amarnath Banner" width="100%" />
+  </a>
+</p>
+
 <p align="center">
   <b>AI Engineer · Full-Stack Developer · Hardware Hacker · 3D Enthusiast</b>
 </p>
