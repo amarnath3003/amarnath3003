@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/amarnath3003/amarnath3003">
-    <img src="./asciinator_22May_001.svg" alt="Amarnath Banner" width="100%" />
+    <img src="./asciinator_22May_001.svg" alt="Amarnath Banner" width="25%" />
   </a>
 </p>
 
